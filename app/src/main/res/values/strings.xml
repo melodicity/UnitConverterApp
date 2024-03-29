@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="source">Source Unit</string>
+    <string name="destination_unit">Destination Unit</string>
+    <string name="value_to_be_converted">Value</string>
+    <string name="convert">Convert</string>
+    <string name="converted_value">Converted Value</string>
+    <string name="unit_type">Unit Type</string>
+    <string name="input_not_valid">Input not valid!</string>
+
+    <string-array name="units_array">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="length_array">
+        <item>Centimeter</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+    </string-array>
+
+    <string-array name="weight_array">
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+    </string-array>
+
+    <string-array name="temperature_array">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
